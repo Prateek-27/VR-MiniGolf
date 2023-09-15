@@ -3,6 +3,10 @@
 
 **Name:** Prateek Sengar  
 
+[Project Download Link](https://drive.google.com/file/d/1G6tbc5eDGl5xd9O4iCMhT0-xwwNAQdcH/view?usp=sharing) 
+
+[Project Demo Video](https://youtu.be/zJ1xeLo7Bd8) 
+
 ---
 
 In this assignment, I implemented a mini-golf simulator where the user can build and play mini golf in the Stony Brook campus subsection that I created in Assignment 1. The user can choose between the following three modes:
