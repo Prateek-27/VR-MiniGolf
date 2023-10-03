@@ -1,5 +1,5 @@
 # Virtual Reality
-## Assignment 3: Advanced VR
+## Advanced VR
 
 **Name:** Prateek Sengar  
 
